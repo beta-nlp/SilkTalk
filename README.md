@@ -54,4 +54,4 @@ The visualization compares LCMA's target-dominated routing with SilkTalk's pair-
 
 ## Contact
 
-For questions about this work, please open a GitHub issue or contact the corresponding author, Chong Feng, at [fengchong@bit.edu.cn](mailto:fengchong@bit.edu.cn).
+For questions about this work, please open a GitHub issue or contact the author, Yuhe Jin, at [1120223560@bit.edu.cn](mailto:1120223560@bit.edu.cn).
